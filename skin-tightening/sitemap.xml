@@ -6,38 +6,46 @@
                 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
      <url>
                  <loc>index.html</loc>
-                 <lastmod>2025-09-29T08:02:58+00:00</lastmod>
+                 <lastmod>2025-12-16T05:38:20+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>about-us.html</loc>
-                 <lastmod>2025-09-29T08:02:58+00:00</lastmod>
+                 <lastmod>2025-12-16T05:38:20+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>blog.html</loc>
-                 <lastmod>2025-09-29T08:02:58+00:00</lastmod>
+                 <lastmod>2025-12-16T05:38:20+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>reduce-facial-wrinkles.html</loc>
-                 <lastmod>2025-09-29T08:02:58+00:00</lastmod>
+                 <lastmod>2025-12-16T05:38:20+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>over-40s-anti-ageing-treatment.html</loc>
-                 <lastmod>2025-09-29T08:02:58+00:00</lastmod>
+                 <lastmod>2025-12-16T05:38:20+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>contact-us.html</loc>
+                 <lastmod>2025-12-16T05:38:20+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>20s-30s-birmingham.html</loc>
+                 <lastmod>2025-12-16T05:38:20+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>privacy-policy.html</loc>
-                 <lastmod>2025-09-29T08:02:58+00:00</lastmod>
+                 <lastmod>2025-12-16T05:38:20+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>feed.xml</loc>
-                 <lastmod>2025-09-29T08:02:58+00:00</lastmod>
+                 <lastmod>2025-12-16T05:38:20+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>sitemap.xml</loc>
-                 <lastmod>2025-09-29T08:02:58+00:00</lastmod>
+                 <lastmod>2025-12-16T05:38:20+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>sitemap.html</loc>
-                 <lastmod>2025-09-29T08:02:58+00:00</lastmod>
+                 <lastmod>2025-12-16T05:38:20+00:00</lastmod>
                  <priority>0.80</priority>
                </url></urlset>
